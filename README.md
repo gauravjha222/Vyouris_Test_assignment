@@ -52,9 +52,15 @@ It learns via trial-and-error using a reward system:
 -0.1 for each move to encourage shortest paths
 
 ## 🗺️ Final Path Visualization
+
 <img width="438" alt="Screenshot 2025-04-09 at 1 18 10 PM" src="https://github.com/user-attachments/assets/5c8eaf89-c434-4141-b0e2-b7907eee5f4b" />
 
+
+<img width="441" alt="Screenshot 2025-04-10 at 8 10 40 AM" src="https://github.com/user-attachments/assets/f4458fe2-bf4f-4355-b96c-7339fb42fabf" />
+
+
 <img width="801" alt="Screenshot 2025-04-10 at 8 12 48 AM" src="https://github.com/user-attachments/assets/09a0644b-76c6-458f-985b-3e4958f704fb" />
+
 
 
 
