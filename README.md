@@ -63,6 +63,17 @@ It learns via trial-and-error using a reward system:
 
 
 
+✅ Requirements
+
+Python 3.x
+
+OpenCV
+
+Numpy
+
+OpenCV (cv2)
+
+
 
 📉 Features Implemented
 
